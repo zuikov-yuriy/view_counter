@@ -1,0 +1,2 @@
+class AmountViewsPage < ApplicationRecord
+end
